@@ -1,5 +1,14 @@
 # Isaac Sim Navigation Demo
 
+## 🔗 Resources
+
+| | Resource | Link |
+|---|---|---|
+| 📦 | **Dataset** | [Scenes](https://huggingface.co/datasets/Eyz/TataServices) · [Meta](https://huggingface.co/datasets/Eyz/TataMeta) |
+| 🛠️ | **Code** | [Generaion pipeline](https://github.com/william13077/VLNTube) |
+
+---
+
 ## Demo Video
 
 ![Demo](assets/screen_recording.gif)
