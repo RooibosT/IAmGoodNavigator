@@ -4,7 +4,7 @@
 
 | | Resource | Link |
 |---|---|---|
-| 📦 | **Dataset** | [Scenes](https://huggingface.co/datasets/Eyz/TataServices) · [Meta](https://huggingface.co/datasets/Eyz/TataMeta) · [SceneGraph](https://huggingface.co/datasets/Eyz/SceneSummary) |
+| 📦 | **Dataset** | [Scenes](https://huggingface.co/datasets/Eyz/VLNVerse_scene) · [Meta](https://huggingface.co/datasets/Eyz/SceneMeta) · [SceneGraph](https://huggingface.co/datasets/Eyz/SceneSummary) · [Pre-built Data](https://huggingface.co/datasets/Eyz/VLNVerse_data)|
 | 🛠️ | **Code** | [Generaion pipeline](https://github.com/william13077/VLNTube) |
 
 ---
