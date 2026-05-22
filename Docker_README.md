@@ -133,6 +133,7 @@ The custom image installs these dependencies into that Python environment at bui
 
 - `pandas`
 - `scipy==1.10.1`
+- `python3-tk` / `_tkinter` support for the instruction and result popup windows
 
 So you do not need to run `pip install` every time you enter the container.
 
@@ -159,6 +160,13 @@ The packages are installed inside the Docker image, not on the host.
 To force a rebuild:
 
 ```bash
+FORCE_BUILD=1 ./run_docker.sh
+```
+
+If you see `ModuleNotFoundError: No module named '_tkinter'`, exit the container and rebuild the image:
+
+```bash
+exit
 FORCE_BUILD=1 ./run_docker.sh
 ```
 
